@@ -1,0 +1,30 @@
+"user"						: {
+	"id"					: 1,
+	"password"				: "_J9..K0AyUubDrfOgO4s",
+	"nickname"				: "lday",
+	"org"					: "",
+	"name"					: "Laura Day",
+	"email"					: "4lauraday@gmail.com",
+	"tel"					: "4167265657",
+	"url"					: "",
+	"adrs_1"				: "88 Brighton Ave",
+	"adrs_2"				: "",
+	"locality"				: "North York",
+	"region"				: "ON",
+	"postal"				: "M3H 4C8",
+	"country"				: "Canada",
+	"extra"					: {},
+	"rates"					: [
+		{
+			"name"			: "Standard",
+			"amount"		: 3500,
+			"freq"			: 1
+		}
+	],
+	"taxes"					: [
+		{
+			"name"			: "HST",
+			"percent"		: 0.13
+		}
+	]
+}
